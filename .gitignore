@@ -1,0 +1,1 @@
+*.exe\n*.dll\n*.obj\nbin/\nobj/\n.vscode/\n*.user\n*.suo\n*.cache\n*.vs/
