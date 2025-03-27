@@ -1,0 +1,25 @@
+﻿{
+  "members": [
+    {
+      "firstName": "Gideon Toranawa",
+      "lastName": "Ladiyo",
+      "gender": "male",
+      "age": 19,
+      "nim": "2211104022"
+    },
+    {
+      "firstName": "Syahrul Zaki",
+      "lastName": "Khuzaini",
+      "gender": "male",
+      "age": 21,
+      "nim": "2211104014"
+    },
+    {
+      "firstName": "Fauzan Wahyu",
+      "lastName": "Mubarak",
+      "gender": "male",
+      "age": 21,
+      "nim": "2211104027"
+    }
+  ]
+}

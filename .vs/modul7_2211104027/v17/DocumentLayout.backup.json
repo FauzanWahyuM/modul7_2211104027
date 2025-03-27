@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{6CD9BB48-FC87-44E2-99AF-F317EF08B99D}|modul7_2211104027\\modul7_2211104027.csproj|solutionrelative:modul7_2211104027\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CD9BB48-FC87-44E2-99AF-F317EF08B99D}|modul7_2211104027\\modul7_2211104027.csproj|d:\\ittp\\semester 6\\praktikum konstruksi perangkat lunak se-06-01 [yis]\\vs praktikum\\modul7_2211104027\\modul7_2211104027\\jurnal7_1_2211104027.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6CD9BB48-FC87-44E2-99AF-F317EF08B99D}|modul7_2211104027\\modul7_2211104027.csproj|solutionrelative:modul7_2211104027\\jurnal7_1_2211104027.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{6CD9BB48-FC87-44E2-99AF-F317EF08B99D}|modul7_2211104027\\modul7_2211104027.csproj|d:\\ittp\\semester 6\\praktikum konstruksi perangkat lunak se-06-01 [yis]\\vs praktikum\\modul7_2211104027\\modul7_2211104027\\jurnal7_2_2211104027.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6CD9BB48-FC87-44E2-99AF-F317EF08B99D}|modul7_2211104027\\modul7_2211104027.csproj|solutionrelative:modul7_2211104027\\jurnal7_2_2211104027.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "jurnal7_1_2211104027.json",
-              "DocumentMoniker": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\modul7_2211104027\\modul7_2211104027\\jurnal7_1_2211104027.json",
-              "RelativeDocumentMoniker": "modul7_2211104027\\jurnal7_1_2211104027.json",
-              "ToolTip": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\modul7_2211104027\\modul7_2211104027\\jurnal7_1_2211104027.json*",
-              "RelativeToolTip": "modul7_2211104027\\jurnal7_1_2211104027.json*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Title": "jurnal7_2_2211104027.json",
+              "DocumentMoniker": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\modul7_2211104027\\modul7_2211104027\\jurnal7_2_2211104027.json",
+              "RelativeDocumentMoniker": "modul7_2211104027\\jurnal7_2_2211104027.json",
+              "ToolTip": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\modul7_2211104027\\modul7_2211104027\\jurnal7_2_2211104027.json*",
+              "RelativeToolTip": "modul7_2211104027\\jurnal7_2_2211104027.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-27T05:58:33.825Z",
+              "WhenOpened": "2025-03-27T06:20:08.029Z",
               "EditorCaption": ""
             },
             {
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "modul7_2211104027\\Program.cs",
               "ToolTip": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\modul7_2211104027\\modul7_2211104027\\Program.cs",
               "RelativeToolTip": "modul7_2211104027\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAYwD0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T05:27:55.029Z",
               "EditorCaption": ""
