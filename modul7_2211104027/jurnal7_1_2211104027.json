@@ -1,0 +1,21 @@
+﻿{
+  "firstName": "Fauzan Wahyu",
+  "lastName": "Mubarak",
+  "gender": "male",
+  "age": 21,
+  "address": {
+    "streetAddress": "Jl. Banda",
+    "city": "Madiun",
+    "state": "East Java"
+  },
+  "courses": [
+    {
+      "code": "CCK2KAB4",
+      "name": "Konstruksi Perangkat Lunak"
+    },
+    {
+      "code": "CCK2JAC2",
+      "name": "Proyek Tingkat II"
+    }
+  ]
+}
